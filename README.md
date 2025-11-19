@@ -1,9 +1,8 @@
 # Gradient Mask Hover Effect from Evervault
 
-A recreation of the hover effect seen on the customer grid from the [Evervault](https://evervault.com/customers) website.
+A recreation of the hover effect seen on the customer grid from the [Evervault](https://evervault.com/customers) website..
 
 ![Gradient Hover](https://tympanus.net/codrops/wp-content/uploads/2023/05/gradientmask.jpg)
-
 [Article on Codrops](https://tympanus.net/codrops/?p=72017)
 
 [Demo](http://tympanus.net/Tutorials/AnimatedCodeBackground/)
